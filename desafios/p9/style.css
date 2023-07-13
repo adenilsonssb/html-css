@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+    text-align: center;
+    background-color: rgb(20, 20, 20);
+    color: white;
+    font-size: larger;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.seta {
+    background-color: aquamarine;
+    height: 30px;
+    width: 30px;
+}
